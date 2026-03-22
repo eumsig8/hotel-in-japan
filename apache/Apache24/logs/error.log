@@ -1,0 +1,126 @@
+[Sun Nov 23 18:33:18.603007 2025] [mpm_winnt:notice] [pid 7524:tid 448] AH00455: Apache/2.4.65 (Win64) configured -- resuming normal operations
+[Sun Nov 23 18:33:18.604002 2025] [mpm_winnt:notice] [pid 7524:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Nov 23 18:33:18.604002 2025] [core:notice] [pid 7524:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Sun Nov 23 18:33:18.613717 2025] [mpm_winnt:notice] [pid 7524:tid 448] AH00418: Parent: Created child process 7604
+Apache server interrupted...
+025] [mpm_winnt:notice] [pid 7604:tid 472] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 23 19:24:06.271606 2025] [mpm_winnt:notice] [pid 7524:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 23 19:24:08.286252 2025] [mpm_winnt:notice] [pid 7604:tid 472] AH00364: Child: All worker threads have exited.
+[Sun Nov 23 19:24:08.310197 2025] [mpm_winnt:notice] [pid 7524:tid 448] AH00430: Parent: Child process 7604 exited successfully.
+[Sun Nov 23 19:29:15.089273 2025] [mpm_winnt:notice] [pid 27532:tid 448] AH00455: Apache/2.4.65 (Win64) configured -- resuming normal operations
+[Sun Nov 23 19:29:15.089812 2025] [mpm_winnt:notice] [pid 27532:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Nov 23 19:29:15.089812 2025] [core:notice] [pid 27532:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Sun Nov 23 19:29:15.093510 2025] [mpm_winnt:notice] [pid 27532:tid 448] AH00418: Parent: Created child process 15300
+Apache server interrupted...
+025] [mpm_winnt:notice] [pid 15300:tid 444] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 23 19:30:48.832637 2025] [mpm_winnt:notice] [pid 27532:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Sun Nov 23 19:30:50.858884 2025] [mpm_winnt:notice] [pid 15300:tid 444] AH00364: Child: All worker threads have exited.
+[Sun Nov 23 19:30:50.890398 2025] [mpm_winnt:notice] [pid 27532:tid 448] AH00430: Parent: Child process 15300 exited successfully.
+[Sun Nov 23 22:02:09.151525 2025] [mpm_winnt:notice] [pid 16708:tid 448] AH00455: Apache/2.4.65 (Win64) PHP/8.4.13 configured -- resuming normal operations
+[Sun Nov 23 22:02:09.152702 2025] [mpm_winnt:notice] [pid 16708:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Nov 23 22:02:09.152702 2025] [core:notice] [pid 16708:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Sun Nov 23 22:02:09.156843 2025] [mpm_winnt:notice] [pid 16708:tid 448] AH00418: Parent: Created child process 23600
+Apache server interrupted...
+025] [mpm_winnt:notice] [pid 23600:tid 448] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 23 22:07:36.157323 2025] [mpm_winnt:notice] [pid 16708:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 23 22:07:38.166776 2025] [mpm_winnt:notice] [pid 23600:tid 448] AH00364: Child: All worker threads have exited.
+[Sun Nov 23 22:07:38.194907 2025] [mpm_winnt:notice] [pid 16708:tid 448] AH00430: Parent: Child process 23600 exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Sun Nov 23 22:48:36.721349 2025] [mpm_winnt:notice] [pid 9492:tid 448] AH00455: Apache/2.4.65 (Win64) PHP/8.4.13 configured -- resuming normal operations
+[Sun Nov 23 22:48:36.721349 2025] [mpm_winnt:notice] [pid 9492:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Nov 23 22:48:36.721349 2025] [core:notice] [pid 9492:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Sun Nov 23 22:48:36.725797 2025] [mpm_winnt:notice] [pid 9492:tid 448] AH00418: Parent: Created child process 19480
+Apache server interrupted...
+able to load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Sun Nov 23 22:48:37.179545 2025] [mpm_winnt:notice] [pid 19480:tid 444] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 23 22:57:42.330563 2025] [mpm_winnt:notice] [pid 9492:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 23 22:57:44.352872 2025] [mpm_winnt:notice] [pid 19480:tid 444] AH00364: Child: All worker threads have exited.
+[Sun Nov 23 22:57:44.388535 2025] [mpm_winnt:notice] [pid 9492:tid 448] AH00430: Parent: Child process 19480 exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Sun Nov 23 22:57:56.738659 2025] [mpm_winnt:notice] [pid 20824:tid 448] AH00455: Apache/2.4.65 (Win64) PHP/8.4.13 configured -- resuming normal operations
+[Sun Nov 23 22:57:56.738659 2025] [mpm_winnt:notice] [pid 20824:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Nov 23 22:57:56.738659 2025] [core:notice] [pid 20824:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Sun Nov 23 22:57:56.742113 2025] [mpm_winnt:notice] [pid 20824:tid 448] AH00418: Parent: Created child process 25032
+Apache server shutdown initiated...
+ load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Sun Nov 23 22:57:57.213457 2025] [mpm_winnt:notice] [pid 25032:tid 444] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 23 23:34:41.581713 2025] [mpm_winnt:notice] [pid 20824:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 23 23:34:43.592567 2025] [mpm_winnt:notice] [pid 25032:tid 444] AH00364: Child: All worker threads have exited.
+[Sun Nov 23 23:34:43.614611 2025] [mpm_winnt:notice] [pid 20824:tid 448] AH00430: Parent: Child process 25032 exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Sun Nov 23 23:40:44.301953 2025] [mpm_winnt:notice] [pid 3216:tid 448] AH00455: Apache/2.4.65 (Win64) PHP/8.4.13 configured -- resuming normal operations
+[Sun Nov 23 23:40:44.301953 2025] [mpm_winnt:notice] [pid 3216:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Nov 23 23:40:44.301953 2025] [core:notice] [pid 3216:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Sun Nov 23 23:40:44.305119 2025] [mpm_winnt:notice] [pid 3216:tid 448] AH00418: Parent: Created child process 9300
+Apache server interrupted...
+able to load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Sun Nov 23 23:40:44.763306 2025] [mpm_winnt:notice] [pid 9300:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 24 00:08:23.430640 2025] [mpm_winnt:notice] [pid 3216:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 24 00:08:25.450317 2025] [mpm_winnt:notice] [pid 9300:tid 444] AH00364: Child: All worker threads have exited.
+[Mon Nov 24 00:08:25.473008 2025] [mpm_winnt:notice] [pid 3216:tid 448] AH00430: Parent: Child process 9300 exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Mon Nov 24 00:08:33.995101 2025] [mpm_winnt:notice] [pid 9492:tid 448] AH00455: Apache/2.4.65 (Win64) PHP/8.4.13 configured -- resuming normal operations
+[Mon Nov 24 00:08:33.995101 2025] [mpm_winnt:notice] [pid 9492:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Mon Nov 24 00:08:33.995101 2025] [core:notice] [pid 9492:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Mon Nov 24 00:08:33.999157 2025] [mpm_winnt:notice] [pid 9492:tid 448] AH00418: Parent: Created child process 11804
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Mon Nov 24 00:08:34.453014 2025] [mpm_winnt:notice] [pid 11804:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 24 00:08:46.109959 2025] [authz_core:error] [pid 11804:tid 1288] [client ::1:63004] AH01630: client denied by server configuration: C:/temp/oi/phpmyadmin
+[Mon Nov 24 00:08:47.765207 2025] [authz_core:error] [pid 11804:tid 1288] [client ::1:63004] AH01630: client denied by server configuration: C:/temp/oi/phpmyadmin
+[Mon Nov 24 00:14:20.339754 2025] [core:warn] [pid 26916:tid 448] AH00098: pid file C:/temp/oi/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Mon Nov 24 00:14:20.367749 2025] [mpm_winnt:notice] [pid 26916:tid 448] AH00455: Apache/2.4.65 (Win64) PHP/8.4.13 configured -- resuming normal operations
+[Mon Nov 24 00:14:20.367749 2025] [mpm_winnt:notice] [pid 26916:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Mon Nov 24 00:14:20.367749 2025] [core:notice] [pid 26916:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Mon Nov 24 00:14:20.371090 2025] [mpm_winnt:notice] [pid 26916:tid 448] AH00418: Parent: Created child process 27364
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Mon Nov 24 00:14:20.820381 2025] [mpm_winnt:notice] [pid 27364:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 24 00:15:26.125822 2025] [authz_core:error] [pid 27364:tid 1280] [client ::1:63381] AH01630: client denied by server configuration: C:/temp/oi/phpmyadmin
+[Mon Nov 24 15:17:07.017480 2025] [core:warn] [pid 14104:tid 448] AH00098: pid file C:/temp/oi/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Mon Nov 24 15:17:07.051627 2025] [mpm_winnt:notice] [pid 14104:tid 448] AH00455: Apache/2.4.65 (Win64) PHP/8.4.13 configured -- resuming normal operations
+[Mon Nov 24 15:17:07.051627 2025] [mpm_winnt:notice] [pid 14104:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Mon Nov 24 15:17:07.051627 2025] [core:notice] [pid 14104:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Mon Nov 24 15:17:07.058665 2025] [mpm_winnt:notice] [pid 14104:tid 448] AH00418: Parent: Created child process 6552
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:\\php\\ext\\php_mysqli.dll (The specified module could not be found), C:\\php\\ext\\php_php_mysqli.dll.dll (The specified module could not be found)) in Unknown on line 0
+[Mon Nov 24 15:17:07.506226 2025] [mpm_winnt:notice] [pid 6552:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 24 15:22:39.455713 2025] [php:error] [pid 6552:tid 1308] [client ::1:50152] script 'C:/temp/oi/app/backend/api/v1/list_item.php' not found or unable to stat, referer: http://localhost/
+[Mon Nov 24 15:23:00.946580 2025] [authz_core:error] [pid 6552:tid 1308] [client ::1:61038] AH01630: client denied by server configuration: C:/temp/oi/phpmyadmin
+[Tue Nov 25 18:20:30.291974 2025] [core:warn] [pid 7704:tid 448] AH00098: pid file C:/temp/oi/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 25 18:20:30.293949 2025] [mpm_winnt:notice] [pid 7704:tid 448] AH00455: Apache/2.4.65 (Win64) configured -- resuming normal operations
+[Tue Nov 25 18:20:30.293949 2025] [mpm_winnt:notice] [pid 7704:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Tue Nov 25 18:20:30.293949 2025] [core:notice] [pid 7704:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Tue Nov 25 18:20:30.298026 2025] [mpm_winnt:notice] [pid 7704:tid 448] AH00418: Parent: Created child process 21180
+Apache server interrupted...
+025] [mpm_winnt:notice] [pid 21180:tid 444] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 25 18:20:39.277501 2025] [authz_core:error] [pid 21180:tid 1228] [client ::1:50381] AH01630: client denied by server configuration: C:/apache
+[Tue Nov 25 18:25:40.340895 2025] [mpm_winnt:notice] [pid 7704:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 25 18:25:42.357691 2025] [mpm_winnt:notice] [pid 21180:tid 444] AH00364: Child: All worker threads have exited.
+[Tue Nov 25 18:25:42.378214 2025] [mpm_winnt:notice] [pid 7704:tid 448] AH00430: Parent: Child process 21180 exited successfully.
+[Tue Nov 25 19:34:18.622477 2025] [mpm_winnt:notice] [pid 10864:tid 448] AH00455: Apache/2.4.65 (Win64) PHP/8.4.13 configured -- resuming normal operations
+[Tue Nov 25 19:34:18.622477 2025] [mpm_winnt:notice] [pid 10864:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Tue Nov 25 19:34:18.622477 2025] [core:notice] [pid 10864:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Tue Nov 25 19:34:18.626864 2025] [mpm_winnt:notice] [pid 10864:tid 448] AH00418: Parent: Created child process 22700
+Apache server interrupted...
+025] [mpm_winnt:notice] [pid 22700:tid 444] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 25 19:34:26.087436 2025] [authz_core:error] [pid 22700:tid 1260] [client ::1:55540] AH01630: client denied by server configuration: C:/temp/oi/app/frontend/
+[Tue Nov 25 19:34:26.932097 2025] [authz_core:error] [pid 22700:tid 1260] [client ::1:55540] AH01630: client denied by server configuration: C:/temp/oi/app/frontend/
+[Tue Nov 25 19:34:27.343740 2025] [authz_core:error] [pid 22700:tid 1260] [client ::1:55540] AH01630: client denied by server configuration: C:/temp/oi/app/frontend/
+[Tue Nov 25 19:34:27.579616 2025] [authz_core:error] [pid 22700:tid 1260] [client ::1:55540] AH01630: client denied by server configuration: C:/temp/oi/app/frontend/
+[Tue Nov 25 19:37:55.450480 2025] [mpm_winnt:notice] [pid 10864:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 25 19:37:57.464103 2025] [mpm_winnt:notice] [pid 22700:tid 444] AH00364: Child: All worker threads have exited.
+[Tue Nov 25 19:37:57.500097 2025] [mpm_winnt:notice] [pid 10864:tid 448] AH00430: Parent: Child process 22700 exited successfully.
+[Tue Nov 25 19:38:44.990754 2025] [mpm_winnt:notice] [pid 16952:tid 448] AH00455: Apache/2.4.65 (Win64) PHP/8.4.13 configured -- resuming normal operations
+[Tue Nov 25 19:38:44.990754 2025] [mpm_winnt:notice] [pid 16952:tid 448] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Tue Nov 25 19:38:44.990754 2025] [core:notice] [pid 16952:tid 448] AH00094: Command line: 'httpd.exe -d C:/temp/oi/apache/Apache24'
+[Tue Nov 25 19:38:44.994488 2025] [mpm_winnt:notice] [pid 16952:tid 448] AH00418: Parent: Created child process 13416
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 13416:tid 444] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 25 19:39:01.404819 2025] [authz_core:error] [pid 13416:tid 1304] [client ::1:59795] AH01630: client denied by server configuration: C:/temp/oi/phpmyadmin
+[Tue Nov 25 19:44:15.136671 2025] [mpm_winnt:notice] [pid 16952:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 25 19:44:17.157490 2025] [mpm_winnt:notice] [pid 13416:tid 444] AH00364: Child: All worker threads have exited.
+[Tue Nov 25 19:44:17.182927 2025] [mpm_winnt:notice] [pid 16952:tid 448] AH00430: Parent: Child process 13416 exited successfully.
